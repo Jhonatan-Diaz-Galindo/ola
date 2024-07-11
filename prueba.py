@@ -4,4 +4,4 @@ while i <= 20:
   lista.append(i)
   i = i+1
 
-lista
+print(lista)
