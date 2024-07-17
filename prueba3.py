@@ -1,10 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = np.linspace(-5,5,100)
-y = 1/x
-plt.plot(x,y,"go--")
-
 x = np.linspace(1,10,100)
 y = np.log2(x)
 y2 = np.tan(x)
